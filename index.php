@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Precio de Tarima de Madera para Cimbra en Corregidora - Maderería El Farolito</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Wish shop project">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="../styles/bootstrap4/bootstrap.min.css">
+<link href="../plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/animate.css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../styles/main_styles.css">
+<link rel="stylesheet" type="text/css" href="../styles/responsive.css">
+
+<link rel="icon" type="image/png" href="imagenes/logo-250x250.png">
+
+    <!-- Meta Descripción: El gancho comercial que aparecerá en los resultados de Google -->
+    <meta name="description" content="Encuentra madera para cimbra al mejor precio en Querétaro y Corregidora. Venta por pieza de tarima de cimbra, tarima industrial, polín, barrote y tabla de pino con entrega inmediata. ¡Contáctanos!">
+    
+    <!-- Meta Keywords: Aunque los buscadores modernos no las leen tanto, sirven para dejar constancia de tus 3 palabras de oro y variaciones -->
+    <meta name="keywords" content="madera para cimbra precio, precio de tarima de madera para cimbra, tarima para cimbra precio, venta de madera por pieza corregidora, polin de madera precio, barrote de pino, tabla para cimbra, madereria en corregidora">
+    
+    <!-- Meta Robots: Le da permiso total a Google e IA para indexar tu web estática en GitHub -->
+    <meta name="robots" content="index, follow">
+
+
+<style type="text/css">
+  .card-bodyy{
+    flex: 1 1 auto;
+    padding: 2.25rem;
+  }
+        .avion {
+            position: fixed;
+            left: 0; /* Inicia en el lado izquierdo */
+            bottom: 0; /* Inicia desde la parte inferior */
+            animation-duration: 24s; /* Duración de la animación */
+            animation-name: vuela;
+            animation-iteration-count: infinite; /* Se repite infinitamente */
+            width: 100px;
+        }
+
+        /* El segundo avión tiene un retraso */
+        .avion2 {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            animation-duration: 24s;
+            animation-name: vuela;
+            animation-iteration-count: infinite;
+            animation-delay: 12s; /* Retraso de 12 segundos */
+            width: 100px;
+        }
+
+        @keyframes vuela {
+            from {
+                left: 0; /* Empieza desde la izquierda */
+                bottom: 0; /* Empieza desde abajo */
+            }
+            to {
+                left: 100%; /* Se mueve hacia la derecha */
+                bottom: 100%; /* Se mueve hacia arriba */
+            }
+        }
+</style>
+    
+</head>
+<body>
+
+  
+
+<div class="super_container">
+  
+  <!-- Header -->
+
+  <?php include'menu.php';?>
+  <br>
+<br>
+<br>
+
+<br>
+<!-- Home -->
+  <div class="home">
+    
+    <!-- Home Slider -->
+        <div  class="row user-profile mt-1 ml-0 mr-0">
+            <img class="responsive-img"  alt="Triplay, barrotes y tablas de madera" src="imagenes/banner1.png"  >
+        </div>
+    
+  </div>
+
+    <div class="avion">
+        <img src="imagenes/casa-dibujo.png" style="width:100px;">
+    </div>
+    <div class="avion2">
+        <img src="imagenes/cama-dibujo.png" style="width:100px;">
+    </div>
+
+<!---Nosotros--->
+<section id="nosotros">
+  <div class="container">
+
+            <div class="row">
+
+        <div class="col">
+
+        <div class="section_title_container text-center">
+
+            <!-- Título optimizado con la palabra clave Rey de nuestro análisis -->
+            <div class="section_title">Nosotros</div>
+           
+            <!-- Párrafo enfocado únicamente en tus productos clave e intenciones de compra del análisis -->
+            <p align="justify">
+                En Maderería El Farolito nos especializamos exclusivamente en la venta por pieza y mayoreo de <strong>madera para cimbra a precio</strong> directo de fábrica. Nuestro catálogo está diseñado para contratistas, albañiles y particulares en Querétaro y Corregidora que buscan la mejor calidad en <strong>tarima de cimbra, tarima industrial, barrote de pino, polín estructural y tabla</strong> de alta resistencia. Nos comprometemos a brindarte materiales confiables para tus obras y un servicio al cliente excepcional, asegurando que encuentres la <strong>tarima para cimbra a precio</strong> accesible y con entrega inmediata para llevar tu proyecto al siguiente nivel. 
+                <a href="https://wa.me/524424916325?text=Hola%2C%20me%20interesa%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos%20de%20madera." target="_blank">CONTÁCTANOS HOY</a> y descubre cómo podemos colaborar para hacer realidad tus ideas.
+            </p>
+
+        </div>
+
+
+
+        </div>
+
+      </div>
+
+  </div>
+</section>
+<!---Fin Nosotros--->
+
+<!---Servicios--->
+<section id="servicios">
+ <div class="album py-5 bg-light">
+    <div class="container">
+          <h1 style="text-align:center;">PRODUCTOS</h1>
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+        <div class="col">
+        <div class="card shadow-sm">
+          <!-- Optimizamos el alt con el producto clave y su ubicación -->
+          <img src="imagenes/cimbra.png" alt="Tarima de madera para cimbra en Queretaro y Corregidora" style="width: 100%; height: 250px;">         
+          <div class="card-body">
+            <!-- Inyectamos la palabra clave de oportunidad en el título de la tarjeta -->
+            <h3 style="text-align:center;">Tarima para Cimbra</h3>
+            
+            <!-- Agregamos un texto descriptivo corto que venda el beneficio individual -->
+            <p class="card-text" align="justify">
+              Tarima para cimbra resistente y de alta durabilidad para obras residenciales e industriales. 
+              <b><a href="https://bordadosyconfecciones.com.mx/pamba/detalle-producto.php?id_producto=21">Ver más</a></b>
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col">
+        <div class="card shadow-sm">
+          <!-- Ajustamos el alt para que coincida con el producto específico e incluya Corregidora -->
+          <img src="imagenes/industrial.png" alt="Venta de tarimas industriales de madera en Queretaro y Corregidora" style="width: 100%; height: 250px;"> 
+          <div class="card-body">
+            <!-- Título optimizado enfocado en la intención de búsqueda comercial -->
+            <h3 style="text-align:center;">Tarima Industrial</h3>
+            
+            <!-- Texto descriptivo corto que destaca el beneficio individual y uso pesado -->
+            <p class="card-text" align="justify">
+              Tarima industrial para almacenamiento y carga pesada en bodegas. 
+              <b><a href="https://bordadosyconfecciones.com.mx/pamba/detalle-producto.php?id_producto=25">Ver más</a></b>
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+
+    <div class="col">
+      <div class="card shadow-sm">
+        <!-- Optimizamos el alt con el producto y su uso en la zona local -->
+        <img src="imagenes/polin.png" alt="Polin de madera para construccion en Queretaro y Corregidora" style="width: 100%; height: 250px;"> 
+        <div class="card-body">
+          <!-- Inyectamos la palabra clave con alta intencion de compra por pieza -->
+          <h3 style="text-align:center;">Polín de Madera</h3>
+          
+          <!-- Agregamos texto descriptivo enfocado en venta individual y resistencia -->
+          <p class="card-text" align="justify">
+            Polín de madera ideal para soporte estructural, vigas y cimbra en obras residenciales.  
+            <b><a href="http://ideasencubitos1.infinityfreeapp.com/pamba/detalle-producto.php?id_producto=5">Ver más</a></b>
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="col">
+      <div class="card shadow-sm">
+        <!-- Mejoramos el alt incluyendo el tipo de madera, el uso y la ubicación clave -->
+        <img src="imagenes/barrote.png" alt="Barrote de madera de pino para estructuras en Queretaro y Corregidora" style="width: 100%; height: 250px;"> 
+        <div class="card-body">
+          <!-- Cambiamos el título genérico por un término de búsqueda con alta intención de compra -->
+          <h3 style="text-align:center;">Barrote de Madera</h3>
+          
+          <!-- Agregamos texto descriptivo con las medidas reales de tu catálogo para dar confianza -->
+          <p class="card-text" align="justify">
+            Barrote de madera ideal para marcos, refuerzos de cimbra y estructuras ligeras. 
+            <b><a href="https://bordadosyconfecciones.com.mx/pamba/detalle-producto.php?id_producto=46">Ver más</a></b>
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="col">
+      <div class="card shadow-sm">
+        <!-- Optimizamos el alt especificando el uso clave en construccion y carpinteria local -->
+        <img src="imagenes/tabla.png" alt="Tabla de madera para cimbra y carpinteria en Queretaro y Corregidora" style="width: 100%; height: 250px;"> 
+        <div class="card-body">
+          <!-- Cambiamos el titulo simple por un encabezado descriptivo comercial -->
+          <h3 style="text-align:center;">Tabla de Madera</h3>
+          
+          <!-- Agregamos texto descriptivo con las medidas reales y usos del catalogo de Pamba -->
+          <p class="card-text" align="justify">
+            Tabla de madera. Excelente opción individual.
+            <b><a href="https://bordadosyconfecciones.com.mx/pamba/detalle-producto.php?id_producto=44">Ver más</a></b>
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
+      </div>
+    </div>
+ </div> 
+
+
+ <!--<div class="album py-5 bg-light">
+    <div class="container">
+         
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-6 g-6">
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="imagenes/casita.png" alt="Casas para mascotas" style="width: 100%;height: 250px;">         
+            <div class="card-bodyy">
+              <h3 style="text-align:center;">Casas para mascotas</h3>
+              <p class="card-text" align="justify">Casas para mascotas de diferentes dimensiones.</p>
+             
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+           <img src="imagenes/cama.jpg" alt="Camas para mascotas" style="width: 100%;height: 250px;"> 
+            <div class="card-bodyy">
+              <h3 style="text-align:center;">Camas para mascotas</h3>
+              <p class="card-text" align="justify">Camas para mascotas de diferentes dimensiones.</p>
+            
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+ </div>-->
+ </section>  
+<!---Fin Servicios--->
+
+
+  <!-- Promo -->
+
+
+
+<section id="ubicacion">
+  <center>
+  <div class="row">
+        <div class="col">
+          <div class="section_title_container text-center">
+            
+            <div class="section_title">Ubicación</div>
+          </div>
+        </div>
+      </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4545800857873!2d0!3d0!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d34f70b7e67b27%3A0x5b816fd96f6b7e8f!2sMadereria%20el%20farolito!5e0!3m2!1ses-419!2smx!4v1644609077097!5m2!1ses-419!2smx" width="1399" height="400"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<br>
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fweb.facebook.com%2Fprofile.php%3Fid%3D100078256125047&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="135" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+  </center>
+
+
+  
+</section>
+
+   <?php include'footer.php';?>
+
+</div>
+
+<!---Messenger--->
+<!-- Messenger Plugin de chat Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin de chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "100337995922591");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v13.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+<!---Fin Messenger--->
+
+
+  
+<script src="../js/jquery-3.2.1.min.js"></script>
+<script src="../styles/bootstrap4/popper.js"></script>
+<script src="../styles/bootstrap4/bootstrap.min.js"></script>
+<script src="../plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="../plugins/easing/easing.js"></script>
+<script src="../plugins/parallax-js-master/parallax.min.js"></script>
+<script src="../plugins/colorbox/jquery.colorbox-min.js"></script>
+<script src="../js/custom.js"></script>
+<script src="js/slider.js"></script>
+
+   
+</body>
+</html>
